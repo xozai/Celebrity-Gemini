@@ -1,0 +1,5 @@
+{
+  "name": "Celebrity",
+  "description": "A multiplayer web app to play the game Celebrity with friends.",
+  "requestFramePermissions": []
+}
